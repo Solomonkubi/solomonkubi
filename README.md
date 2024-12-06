@@ -1,16 +1,18 @@
-## Hi there 👋
+Hi there! 👋
+I'm Solomon Appiah kubi, a passionate Data Analyst student with a growing expertise in 
+turning raw data into actionable insights. I enjoy solving problems and uncovering stories
+hidden within the numbers.
 
-<!--
-**Solomonkubi/solomonkubi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔧 Skills
+Programming: Python (Pandas, NumPy, Matplotlib, Seaborn)
+Data Visualization: Tableau
+Databases: SQL (queries, joins, aggregations)
 
-Here are some ideas to get you started:
+🌱 What I'm Learning
+Advanced Python for Data Science
+Building interactive dashboards with Tableau
+Writing optimized SQL queries for big data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with Me
+LinkedIn
+GitHub
